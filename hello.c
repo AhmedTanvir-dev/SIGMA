@@ -8,6 +8,8 @@ int main() {
 
     if (num % 2 == 0) {
         printf("Tayef\n");
+    else if(num == 0) {
+        printf("Zero\n");
     } else {
         printf("Tanvir\n");
     }
